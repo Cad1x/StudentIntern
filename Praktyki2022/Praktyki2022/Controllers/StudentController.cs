@@ -48,6 +48,12 @@ namespace Praktyki2022.Controllers
         [HttpPost]
         public IActionResult CreateStudent(Student student)
         {
+            // Walidacja modelu przed dodaniem do bazy danych
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
             _context.Students.Add(student);
             _context.SaveChanges();
             return CreatedAtAction(nameof(GetStudentById), new { id = student.Id }, student);
@@ -61,6 +67,13 @@ namespace Praktyki2022.Controllers
             {
                 return NotFound();
             }
+
+            // Walidacja modelu przed aktualizacją
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
             student.FirstName = updatedStudent.FirstName;
             student.LastName = updatedStudent.LastName;
             student.Email = updatedStudent.Email;

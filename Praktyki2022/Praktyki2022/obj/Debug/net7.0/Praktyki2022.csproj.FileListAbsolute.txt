@@ -249,3 +249,6 @@ D:\Visual2022\repos2022\Praktyki2022\Praktyki2022\obj\Debug\net7.0\refint\Prakty
 D:\Visual2022\repos2022\Praktyki2022\Praktyki2022\obj\Debug\net7.0\Praktyki2022.pdb
 D:\Visual2022\repos2022\Praktyki2022\Praktyki2022\obj\Debug\net7.0\Praktyki2022.genruntimeconfig.cache
 D:\Visual2022\repos2022\Praktyki2022\Praktyki2022\obj\Debug\net7.0\ref\Praktyki2022.dll
+D:\Visual2022\repos2022\Praktyki2022\Praktyki2022\bin\Debug\net7.0\xunit.abstractions.dll
+D:\Visual2022\repos2022\Praktyki2022\Praktyki2022\bin\Debug\net7.0\xunit.core.dll
+D:\Visual2022\repos2022\Praktyki2022\Praktyki2022\bin\Debug\net7.0\xunit.execution.dotnet.dll

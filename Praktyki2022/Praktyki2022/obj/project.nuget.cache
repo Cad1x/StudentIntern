@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Safv/o4Y3vsID7+vsy0it39BxEQc7nDMLziw4f6593/TMdk7eAuf9neOy3P3VuXsz3yo16a4PaoK8k4gkt4C/Q==",
+  "dgSpecHash": "ekDEaLpfR9qKbRtwGTF0aN2YylkYg/bzDSl9SlOkscZQTiVsnRfh5dt5TJ0I2Y6z2GdXWrlpbP7gZkFatdttDg==",
   "success": true,
   "projectFilePath": "D:\\Visual2022\\repos2022\\Praktyki2022\\Praktyki2022\\Praktyki2022.csproj",
   "expectedPackageFiles": [
@@ -230,7 +230,10 @@
     "C:\\Users\\Michał\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\Michał\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\Michał\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\Michał\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\Michał\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Michał\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\Michał\\.nuget\\packages\\xunit.extensibility.core\\2.5.0\\xunit.extensibility.core.2.5.0.nupkg.sha512",
+    "C:\\Users\\Michał\\.nuget\\packages\\xunit.extensibility.execution\\2.5.0\\xunit.extensibility.execution.2.5.0.nupkg.sha512"
   ],
   "logs": []
 }
