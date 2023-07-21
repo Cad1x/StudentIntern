@@ -15,12 +15,15 @@ builder.Services.AddSwaggerGen();
 
 /////////////////////////////////////////////////////////////////////////////
 
-var configuration = new ConfigurationBuilder()
-       .SetBasePath(Directory.GetCurrentDirectory())
-       .AddJsonFile("appsettings.json")
-       .Build();
 
-var connectionString = configuration["ConnectionStrings:DefaultConnection"];
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+//var configuration = new ConfigurationBuilder()
+//       .SetBasePath(Directory.GetCurrentDirectory())
+//       .AddJsonFile("appsettings.json")
+//       .Build();
+
+//var connectionString = configuration["ConnectionStrings:DefaultConnection"];
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 
