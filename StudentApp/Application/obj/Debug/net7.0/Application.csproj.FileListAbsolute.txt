@@ -1,0 +1,15 @@
+D:\Visual2022\repos2022\StudentApp\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\Visual2022\repos2022\StudentApp\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual2022\repos2022\StudentApp\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\Visual2022\repos2022\StudentApp\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\Visual2022\repos2022\StudentApp\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\Visual2022\repos2022\StudentApp\Application\bin\Debug\net7.0\Application.deps.json
+D:\Visual2022\repos2022\StudentApp\Application\bin\Debug\net7.0\Application.dll
+D:\Visual2022\repos2022\StudentApp\Application\bin\Debug\net7.0\Application.pdb
+D:\Visual2022\repos2022\StudentApp\Application\bin\Debug\net7.0\Core.dll
+D:\Visual2022\repos2022\StudentApp\Application\bin\Debug\net7.0\Core.pdb
+D:\Visual2022\repos2022\StudentApp\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\Visual2022\repos2022\StudentApp\Application\obj\Debug\net7.0\Application.dll
+D:\Visual2022\repos2022\StudentApp\Application\obj\Debug\net7.0\refint\Application.dll
+D:\Visual2022\repos2022\StudentApp\Application\obj\Debug\net7.0\Application.pdb
+D:\Visual2022\repos2022\StudentApp\Application\obj\Debug\net7.0\ref\Application.dll

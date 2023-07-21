@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "73Sq24IGaWYezyBfTjz8VESxwL4NWjRp7JFfe4HFvIj6yZ+NsUGTrkJ76Q3xA3vhkOj+R8ZRsPHv66HQamBs9g==",
+  "success": true,
+  "projectFilePath": "D:\\Visual2022\\repos2022\\StudentApp\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michał\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Michał\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
